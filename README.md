@@ -74,7 +74,29 @@ This project is a static website hosted on Amazon S3. It includes HTML & CSS for
 ### S3 Bucket Overview
 ![image](https://github.com/user-attachments/assets/62cb1c0b-a972-4de0-aa7e-dd6f9bd7379c)
 
+---
 
+## Deleting Resources to Avoid Charges
+
+To ensure there are no ongoing charges related to your S3 bucket, follow these steps to delete the bucket and its contents:
+
+1. Empty the Bucket:
+   - Go to the Objects tab within your S3 bucket.
+   - Click on Empty bucket to delete all objects inside.
+   - Confirm the deletion by typing “permanently delete” in the prompt.
+   
+2. Delete the Bucket:
+   - After emptying the bucket, go to the Bucket Overview page.
+   - Click on Delete bucket.
+   - Confirm the deletion by typing the bucket name when prompted.
+---
+> *Note*: Ensure that you have saved any files or information you need before performing these steps, as this deletion process is irreversible.
+
+By following these steps, you can prevent any unexpected AWS charges for unused resources. 
+
+---
+
+This completes the static website deployment guide on AWS S3, including setup, usage, and cleanup to avoid costs.
 
 
 
