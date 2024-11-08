@@ -68,10 +68,10 @@ This project is a static website hosted on Amazon S3. It includes HTML & CSS for
 ### Error Page (error.html)
 ![Screenshot 2024-11-08 164358](https://github.com/user-attachments/assets/2140464c-fcb2-44e1-92e2-495fdeb37d03)
 
-### Upload Interface
+### Files Interface on S3 
 ![image](https://github.com/user-attachments/assets/f0a8a2bc-6288-44c3-b4b8-c007db7206ac)
 
-### S3 Bucker Overview
+### S3 Bucket Overview
 ![image](https://github.com/user-attachments/assets/62cb1c0b-a972-4de0-aa7e-dd6f9bd7379c)
 
 
